@@ -1,0 +1,1 @@
+# Freiren-s-Grimoire-Hunt-Japanese
