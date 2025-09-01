@@ -46,8 +46,15 @@
 
 ## 🛠️ 使用技術
 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</p>
+
 **フロントエンド**  
-- HTML5  
+- HTML5 / CSS3 / JavaScript  
 
 **バックエンド / データベース（予定）**  
 - Firebase Firestore : オンラインランキング機能  
@@ -57,4 +64,5 @@
 ## 🌸 最後に
 
 フリーレンと一緒に、魔導書を集めてハイスコアを目指そう！  
+ 
 
